@@ -1,0 +1,27 @@
+{
+  "config": {
+    "county": "Karlsruhe", 
+    "scraper": {
+      "base_url": "http://web1.karlsruhe.de/Gemeinderat/ris/bi/", 
+      "paper_type_strings": [], 
+      "party_alias": [
+        [
+          "FROM", 
+          "TO"
+        ]
+      ], 
+      "result_strings": [
+        [
+          "FROM", 
+          "TO"
+        ]
+      ], 
+      "type": "sessionnet-php"
+    }, 
+    "search_ignore_files": [
+      "STRING"
+    ]
+  }, 
+  "name": "Karlsruhe", 
+  "rgs": "082120000000"
+}
